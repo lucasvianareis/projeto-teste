@@ -1,3 +1,7 @@
 <?php 
 
-echo "Quero fazer um teste aqui."
+$nomeCliente = "Lucas Viana Reis";
+
+
+
+echo "O nome do Cliente é: $nomeCliente ";
